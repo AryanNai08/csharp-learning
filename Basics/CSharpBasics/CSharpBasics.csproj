@@ -49,13 +49,16 @@
     <Compile Include="02-DataTypes\NumericDataTypes.cs" />
     <Compile Include="02-DataTypes\TextDataTypes.cs" />
     <Compile Include="02-DataTypes\VarAndConst.cs" />
+    <Compile Include="03-TypeConversion\TryParseExamples.cs" />
     <Compile Include="04-Operators\ConditionalOperator.cs" />
     <Compile Include="04-Operators\Operators.cs" />
     <Compile Include="06-ControlStatements\IfElse.cs" />
     <Compile Include="06-ControlStatements\SwitchStatement.cs" />
     <Compile Include="07-Loops\ForLoop.cs" />
     <Compile Include="07-Loops\WhileLoop.cs" />
+    <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
+    <Compile Include="16-Exercises\Timestable.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

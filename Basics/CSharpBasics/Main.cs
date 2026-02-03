@@ -1,5 +1,6 @@
 ﻿using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
+using CSharpBasics._03_TypeConversion;
 using CSharpBasics._04_Operators;
 using CSharpBasics._06_ControlStatements;
 using CSharpBasics._07_Loops;
@@ -24,7 +25,10 @@ namespace CSharpBasics
             //SwitchStatement.Run();
             //ForLoop.Run();
             //WhileLoop.Run();
-            ConditionalOperator.Run();
+            //ConditionalOperator.Run();
+            //TryParseExamples.Run();
+            //Times_table.Run();
+            FizzBuzz.Run();
             Console.ReadLine();
         }
     }
