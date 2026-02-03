@@ -4,6 +4,7 @@ using CSharpBasics._03_TypeConversion;
 using CSharpBasics._04_Operators;
 using CSharpBasics._06_ControlStatements;
 using CSharpBasics._07_Loops;
+using CSharpBasics._09_Strings;
 using CSharpBasics._16_Exercises;
 using System;
 
@@ -28,7 +29,12 @@ namespace CSharpBasics
             //ConditionalOperator.Run();
             //TryParseExamples.Run();
             //Times_table.Run();
-            FizzBuzz.Run();
+            //FizzBuzz.Run();
+            //VerbatimStrings.Run();
+            //StringFormatting.Run();
+            //Stringinterpolation.Run();
+            //EmptyString.Run();
+            StringEquals.Run();
             Console.ReadLine();
         }
     }

@@ -56,6 +56,11 @@
     <Compile Include="06-ControlStatements\SwitchStatement.cs" />
     <Compile Include="07-Loops\ForLoop.cs" />
     <Compile Include="07-Loops\WhileLoop.cs" />
+    <Compile Include="09-Strings\EmptyString.cs" />
+    <Compile Include="09-Strings\StringEquals.cs" />
+    <Compile Include="09-Strings\Stringinterpolation.cs" />
+    <Compile Include="09-Strings\StringFormatting.cs" />
+    <Compile Include="09-Strings\VerbatimStrings.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
     <Compile Include="16-Exercises\Timestable.cs" />
@@ -68,7 +73,6 @@
   <ItemGroup>
     <Folder Include="05-Console-IO\" />
     <Folder Include="08-NumberFormatting\" />
-    <Folder Include="09-Strings\" />
     <Folder Include="10-Arrays-And-Collections\" />
     <Folder Include="11-Functions\" />
     <Folder Include="12-ExceptionHandling\" />
