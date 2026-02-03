@@ -44,6 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="01-HelloWorld\HelloWorld.cs" />
+    <Compile Include="02-DataTypes\BooleanDataType.cs" />
+    <Compile Include="03-TypeConversion\ConvertToString.cs" />
+    <Compile Include="02-DataTypes\NumericDataTypes.cs" />
+    <Compile Include="02-DataTypes\TextDataTypes.cs" />
+    <Compile Include="02-DataTypes\VarAndConst.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -51,8 +56,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="02-DataTypes\" />
-    <Folder Include="03-TypeConversion\" />
     <Folder Include="04-Operators\" />
     <Folder Include="05-Console-IO\" />
     <Folder Include="06-ControlStatements\" />

@@ -1,4 +1,5 @@
 ﻿using CSharpBasics._01_HelloWorld;
+using CSharpBasics._02_DataTypes;
 using System;
 
 namespace CSharpBasics
@@ -7,7 +8,12 @@ namespace CSharpBasics
     {
         static void Main(string[] args)
         {
-            HelloWorld.Run();
+            //HelloWorld.Run();
+            //NumericDataTypes.Run();
+            //TextDataTypes.Run();
+            //ConvertToString.Run();
+            //BooleanDataType.Run();  
+            VarAndConst.Run();
             Console.ReadLine();
         }
     }
