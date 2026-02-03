@@ -1,5 +1,6 @@
 ﻿using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
+using CSharpBasics._04_Operators;
 using System;
 
 namespace CSharpBasics
@@ -13,7 +14,8 @@ namespace CSharpBasics
             //TextDataTypes.Run();
             //ConvertToString.Run();
             //BooleanDataType.Run();  
-            VarAndConst.Run();
+            //VarAndConst.Run();
+            Operators.Run();
             Console.ReadLine();
         }
     }

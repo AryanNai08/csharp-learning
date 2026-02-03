@@ -49,6 +49,7 @@
     <Compile Include="02-DataTypes\NumericDataTypes.cs" />
     <Compile Include="02-DataTypes\TextDataTypes.cs" />
     <Compile Include="02-DataTypes\VarAndConst.cs" />
+    <Compile Include="04-Operators\Operators.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -56,7 +57,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="04-Operators\" />
     <Folder Include="05-Console-IO\" />
     <Folder Include="06-ControlStatements\" />
     <Folder Include="07-Loops\" />
