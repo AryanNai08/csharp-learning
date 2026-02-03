@@ -5,6 +5,7 @@ using CSharpBasics._04_Operators;
 using CSharpBasics._06_ControlStatements;
 using CSharpBasics._07_Loops;
 using CSharpBasics._09_Strings;
+using CSharpBasics._10_Arrays_And_Collections;
 using CSharpBasics._16_Exercises;
 using System;
 
@@ -36,7 +37,8 @@ namespace CSharpBasics
             //EmptyString.Run();
             //StringEquals.Run();
             //StringReverse.Run();
-            PasswordChecker.Run();
+            //PasswordChecker.Run();
+            Arrays.Run();
             Console.ReadLine();
         }
     }
