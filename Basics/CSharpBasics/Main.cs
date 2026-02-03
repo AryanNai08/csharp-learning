@@ -39,7 +39,8 @@ namespace CSharpBasics
             //StringReverse.Run();
             //PasswordChecker.Run();
             //Arrays.Run();
-            List.Run();
+            //List.Run();
+            Dictionary.Run();
             Console.ReadLine();
         }
     }
