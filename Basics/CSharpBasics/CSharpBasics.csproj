@@ -63,6 +63,8 @@
     <Compile Include="09-Strings\VerbatimStrings.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
+    <Compile Include="16-Exercises\PasswordChecker.cs" />
+    <Compile Include="16-Exercises\StringReverse.cs" />
     <Compile Include="16-Exercises\Timestable.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

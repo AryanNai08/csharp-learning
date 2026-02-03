@@ -34,7 +34,9 @@ namespace CSharpBasics
             //StringFormatting.Run();
             //Stringinterpolation.Run();
             //EmptyString.Run();
-            StringEquals.Run();
+            //StringEquals.Run();
+            //StringReverse.Run();
+            PasswordChecker.Run();
             Console.ReadLine();
         }
     }
