@@ -40,7 +40,9 @@ namespace CSharpBasics
             //PasswordChecker.Run();
             //Arrays.Run();
             //List.Run();
-            Dictionary.Run();
+            //Dictionary.Run();
+            //OddEvenSplit.Run();
+            Arrayofmultiples.Run();
             Console.ReadLine();
         }
     }

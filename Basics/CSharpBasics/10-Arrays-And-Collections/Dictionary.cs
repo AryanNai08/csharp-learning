@@ -25,6 +25,13 @@ namespace CSharpBasics._10_Arrays_And_Collections
                 KeyValuePair<int, string> kvp = names.ElementAt(i);
                 Console.WriteLine($"{ kvp.Key}-> { kvp.Value}");
             }
+
+            Console.WriteLine("Using foreach loop");
+
+            foreach (KeyValuePair<int, string> kvp in names)
+            {
+                Console.WriteLine($"{ kvp.Key}-> { kvp.Value}");
+            }
         }
     }
 }

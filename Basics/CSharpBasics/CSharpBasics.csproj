@@ -64,8 +64,10 @@
     <Compile Include="10-Arrays-And-Collections\Arrays.cs" />
     <Compile Include="10-Arrays-And-Collections\Dictionary.cs" />
     <Compile Include="10-Arrays-And-Collections\List.cs" />
+    <Compile Include="16-Exercises\Arrayofmultiples.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
+    <Compile Include="16-Exercises\OddEvenSplit.cs" />
     <Compile Include="16-Exercises\PasswordChecker.cs" />
     <Compile Include="16-Exercises\StringReverse.cs" />
     <Compile Include="16-Exercises\Timestable.cs" />
