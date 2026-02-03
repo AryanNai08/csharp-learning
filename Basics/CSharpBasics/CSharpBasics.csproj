@@ -50,6 +50,9 @@
     <Compile Include="02-DataTypes\TextDataTypes.cs" />
     <Compile Include="02-DataTypes\VarAndConst.cs" />
     <Compile Include="04-Operators\Operators.cs" />
+    <Compile Include="06-ControlStatements\IfElse.cs" />
+    <Compile Include="06-ControlStatements\SwitchStatement.cs" />
+    <Compile Include="16-Exercises\OddEvenChecker.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -58,7 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="05-Console-IO\" />
-    <Folder Include="06-ControlStatements\" />
     <Folder Include="07-Loops\" />
     <Folder Include="08-NumberFormatting\" />
     <Folder Include="09-Strings\" />
@@ -68,7 +70,6 @@
     <Folder Include="13-Debugging\" />
     <Folder Include="14-Structures\" />
     <Folder Include="15-Classes-And-OOP\" />
-    <Folder Include="16-Exercises\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />

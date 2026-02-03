@@ -1,6 +1,8 @@
 ﻿using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
 using CSharpBasics._04_Operators;
+using CSharpBasics._06_ControlStatements;
+using CSharpBasics._16_Exercises;
 using System;
 
 namespace CSharpBasics
@@ -15,7 +17,10 @@ namespace CSharpBasics
             //ConvertToString.Run();
             //BooleanDataType.Run();  
             //VarAndConst.Run();
-            Operators.Run();
+            //Operators.Run();
+            //OddEvenChecker.Run();
+            //IfElse.Run();
+            SwitchStatement.Run();
             Console.ReadLine();
         }
     }
