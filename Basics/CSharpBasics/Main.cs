@@ -1,6 +1,7 @@
 ﻿using Csharpbasics.ExceptionHandling;
 using Csharpbasics.Excersies;
 using Csharpbasics.Functions;
+using Csharpbasics.Structure;
 using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
 using CSharpBasics._03_TypeConversion;
@@ -11,6 +12,7 @@ using CSharpBasics._09_Strings;
 using CSharpBasics._10_Arrays_And_Collections;
 using CSharpBasics._16_Exercises;
 using System;
+using System.Runtime.InteropServices;
 
 namespace CSharpBasics
 {
@@ -55,7 +57,8 @@ namespace CSharpBasics
             //VoidFunctions.CreateAndPrintArray();
             //AreaOfTriangle.Run();
             //SumOfArray.Run();
-            TryCatch.Run();
+            //TryCatch.Run();
+            Struct.Run();
             Console.ReadLine();
         }
     }
