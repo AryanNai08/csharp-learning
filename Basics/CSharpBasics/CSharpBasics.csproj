@@ -71,12 +71,14 @@
     <Compile Include="11-Functions\RefrenceParam.cs" />
     <Compile Include="11-Functions\ReturnTypeFunction.cs" />
     <Compile Include="11-Functions\VoidFunctions.cs" />
+    <Compile Include="16-Exercises\AreaOfTriangle.cs" />
     <Compile Include="16-Exercises\Arrayofmultiples.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
     <Compile Include="16-Exercises\OddEvenSplit.cs" />
     <Compile Include="16-Exercises\PasswordChecker.cs" />
     <Compile Include="16-Exercises\StringReverse.cs" />
+    <Compile Include="16-Exercises\SumOfArray.cs" />
     <Compile Include="16-Exercises\Timestable.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

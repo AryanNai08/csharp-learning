@@ -1,4 +1,5 @@
-﻿using Csharpbasics.Functions;
+﻿using Csharpbasics.Excersies;
+using Csharpbasics.Functions;
 using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
 using CSharpBasics._03_TypeConversion;
@@ -50,7 +51,9 @@ namespace CSharpBasics
             //OutParam.Run();
             //RefrenceParam.Run();
             //ReturnTypeFunction.PrintIntroduction();
-            VoidFunctions.CreateAndPrintArray();
+            //VoidFunctions.CreateAndPrintArray();
+            //AreaOfTriangle.Run();
+            SumOfArray.Run();
             Console.ReadLine();
         }
     }
