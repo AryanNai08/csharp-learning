@@ -1,4 +1,5 @@
-﻿using Csharpbasics.ExceptionHandling;
+﻿using Csharpbasics.Class;
+using Csharpbasics.ExceptionHandling;
 using Csharpbasics.Excersies;
 using Csharpbasics.Functions;
 using Csharpbasics.Structure;
@@ -58,7 +59,9 @@ namespace CSharpBasics
             //AreaOfTriangle.Run();
             //SumOfArray.Run();
             //TryCatch.Run();
-            Struct.Run();
+            //Struct.Run();
+            //Classdemo.Run();
+            Classdemo.classfunction();
             Console.ReadLine();
         }
     }

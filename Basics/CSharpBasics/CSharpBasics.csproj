@@ -73,6 +73,8 @@
     <Compile Include="11-Functions\VoidFunctions.cs" />
     <Compile Include="12-ExceptionHandling\TryCatch.cs" />
     <Compile Include="14-Structures\Struct.cs" />
+    <Compile Include="15-Classes\Classdemo.cs" />
+    <Compile Include="15-Classes\Student.cs" />
     <Compile Include="16-Exercises\AreaOfTriangle.cs" />
     <Compile Include="16-Exercises\Arrayofmultiples.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
@@ -92,7 +94,6 @@
     <Folder Include="05-Console-IO\" />
     <Folder Include="08-NumberFormatting\" />
     <Folder Include="13-Debugging\" />
-    <Folder Include="15-Classes-And-OOP\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
