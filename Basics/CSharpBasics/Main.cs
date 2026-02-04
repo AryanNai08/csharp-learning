@@ -1,4 +1,5 @@
-﻿using CSharpBasics._01_HelloWorld;
+﻿using Csharpbasics.Functions;
+using CSharpBasics._01_HelloWorld;
 using CSharpBasics._02_DataTypes;
 using CSharpBasics._03_TypeConversion;
 using CSharpBasics._04_Operators;
@@ -42,7 +43,14 @@ namespace CSharpBasics
             //List.Run();
             //Dictionary.Run();
             //OddEvenSplit.Run();
-            Arrayofmultiples.Run();
+            //Arrayofmultiples.Run();
+            //FunctionParameter.Run();
+            //NamedParameter.Run();
+            //OptionalParameter.Run();
+            //OutParam.Run();
+            //RefrenceParam.Run();
+            //ReturnTypeFunction.PrintIntroduction();
+            VoidFunctions.CreateAndPrintArray();
             Console.ReadLine();
         }
     }

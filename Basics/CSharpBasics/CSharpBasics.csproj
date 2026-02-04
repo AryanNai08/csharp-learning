@@ -64,6 +64,13 @@
     <Compile Include="10-Arrays-And-Collections\Arrays.cs" />
     <Compile Include="10-Arrays-And-Collections\Dictionary.cs" />
     <Compile Include="10-Arrays-And-Collections\List.cs" />
+    <Compile Include="11-Functions\FunctionParameter.cs" />
+    <Compile Include="11-Functions\NamedParameter.cs" />
+    <Compile Include="11-Functions\OptionalParameter.cs" />
+    <Compile Include="11-Functions\OutParam.cs" />
+    <Compile Include="11-Functions\RefrenceParam.cs" />
+    <Compile Include="11-Functions\ReturnTypeFunction.cs" />
+    <Compile Include="11-Functions\VoidFunctions.cs" />
     <Compile Include="16-Exercises\Arrayofmultiples.cs" />
     <Compile Include="16-Exercises\FizzBuzz.cs" />
     <Compile Include="16-Exercises\OddEvenChecker.cs" />
@@ -80,7 +87,6 @@
   <ItemGroup>
     <Folder Include="05-Console-IO\" />
     <Folder Include="08-NumberFormatting\" />
-    <Folder Include="11-Functions\" />
     <Folder Include="12-ExceptionHandling\" />
     <Folder Include="13-Debugging\" />
     <Folder Include="14-Structures\" />
