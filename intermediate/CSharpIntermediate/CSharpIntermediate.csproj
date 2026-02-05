@@ -52,6 +52,8 @@
     <Compile Include="01-OOP-Deep\Polymorphism\MethodOverriding.cs" />
     <Compile Include="02-Structs-And-Enums\Enumex.cs" />
     <Compile Include="02-Structs-And-Enums\Struct.cs" />
+    <Compile Include="03-Properties-And-Indexers\GetSets.cs" />
+    <Compile Include="03-Properties-And-Indexers\Initex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,7 +61,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="03-Properties-And-Indexers\" />
     <Folder Include="04-Exception-Handling\" />
     <Folder Include="05-Collections\" />
     <Folder Include="06-File-Handling\" />
