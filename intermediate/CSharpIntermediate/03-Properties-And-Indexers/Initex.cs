@@ -8,9 +8,15 @@ namespace CSharpIntermediate._03_Properties_And_Indexers
 {
     internal class Initex
     {
-        public string Name { get; init; }
-        public int Salary { get; init; }
+        public string Name { get; set; }
+        public int Salary { get; set; }
+
+        //public string Name { get; init; }
+        //public int Salary { get; init; }
     }
+
+
+    // the execution of this program depend on version 9.0 or above of C#
 
     class Program
     {
