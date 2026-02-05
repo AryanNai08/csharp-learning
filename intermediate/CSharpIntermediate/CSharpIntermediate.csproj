@@ -50,6 +50,8 @@
     <Compile Include="01-OOP-Deep\Inheritance\InheritanceDemo.cs" />
     <Compile Include="01-OOP-Deep\Polymorphism\MethodOverloading.cs" />
     <Compile Include="01-OOP-Deep\Polymorphism\MethodOverriding.cs" />
+    <Compile Include="02-Structs-And-Enums\Enumex.cs" />
+    <Compile Include="02-Structs-And-Enums\Struct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,7 +59,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="02-Structs-And-Enums\" />
     <Folder Include="03-Properties-And-Indexers\" />
     <Folder Include="04-Exception-Handling\" />
     <Folder Include="05-Collections\" />
