@@ -58,6 +58,14 @@
     <Compile Include="04-Exception-Handling\MultipleCatch.cs" />
     <Compile Include="04-Exception-Handling\ThrowKeyword.cs" />
     <Compile Include="04-Exception-Handling\TryCatch.cs" />
+    <Compile Include="05-Collections\Arraylist.cs" />
+    <Compile Include="05-Collections\Dictionary.cs" />
+    <Compile Include="05-Collections\Hashsetex.cs" />
+    <Compile Include="05-Collections\Hashtable.cs" />
+    <Compile Include="05-Collections\IEnumerable.cs" />
+    <Compile Include="05-Collections\listex.cs" />
+    <Compile Include="05-Collections\Queue.cs" />
+    <Compile Include="05-Collections\Stack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -65,7 +73,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="05-Collections\" />
     <Folder Include="06-File-Handling\" />
     <Folder Include="07-DateTime\" />
     <Folder Include="08-Delegates\" />
