@@ -5,6 +5,7 @@ using CSharpIntermediate._02_Structs_And_Enums;
 using CSharpIntermediate._03_Properties_And_Indexers;
 using CSharpIntermediate._04_Exception_Handling;
 using CSharpIntermediate._05_Collections;
+using CSharpIntermediate._07_DateTime;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,7 +41,8 @@ namespace CSharpIntermediate
             //Queue.Run();
             //Arraylist.Run();
             //Hashtable.Run();
-            IEnumerable.Run();
+            //IEnumerable.Run();
+            DateTimeDemo.Run();
 
         }
     }
