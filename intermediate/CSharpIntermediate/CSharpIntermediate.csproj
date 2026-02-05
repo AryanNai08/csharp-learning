@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="01-OOP-Deep\AbstractionandInterface\AbstractClass.cs" />
+    <Compile Include="01-OOP-Deep\AbstractionandInterface\Interface.cs" />
     <Compile Include="01-OOP-Deep\Encapsulation\EncapsulationDemo.cs" />
     <Compile Include="01-OOP-Deep\Inheritance\InheritanceBaseKeyword.cs" />
     <Compile Include="01-OOP-Deep\Inheritance\InheritanceDemo.cs" />

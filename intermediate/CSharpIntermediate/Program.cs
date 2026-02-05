@@ -1,4 +1,5 @@
 ﻿using CSharpIntermediate._01_OOP_Deep;
+using CSharpIntermediate._01_OOP_Deep.AbstractClassandInterfaces;
 using CSharpIntermediate._01_OOP_Deep.Polymorphism;
 using System;
 using System.Collections.Generic;
@@ -16,7 +17,10 @@ namespace CSharpIntermediate
             //InheritanceDemo.Run();
             //InheritanceBaseKeyword.Run();
             //MethodOverloading.Run();
-                MethodOverriding.Run();
+            //MethodOverriding.Run();
+            //AbstractClass.Run();
+            Interface.Run();
+
         }
     }
 }
