@@ -1,4 +1,5 @@
 ﻿using CSharpIntermediate._01_OOP_Deep;
+using CSharpIntermediate._01_OOP_Deep.Polymorphism;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +14,9 @@ namespace CSharpIntermediate
         {
             //EncapsulationDemo.Run();
             //InheritanceDemo.Run();
-            InheritanceBaseKeyword.Run();
+            //InheritanceBaseKeyword.Run();
+            //MethodOverloading.Run();
+                MethodOverriding.Run();
         }
     }
 }

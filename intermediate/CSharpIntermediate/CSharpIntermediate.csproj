@@ -46,6 +46,8 @@
     <Compile Include="01-OOP-Deep\Encapsulation\EncapsulationDemo.cs" />
     <Compile Include="01-OOP-Deep\Inheritance\InheritanceBaseKeyword.cs" />
     <Compile Include="01-OOP-Deep\Inheritance\InheritanceDemo.cs" />
+    <Compile Include="01-OOP-Deep\Polymorphism\MethodOverloading.cs" />
+    <Compile Include="01-OOP-Deep\Polymorphism\MethodOverriding.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
