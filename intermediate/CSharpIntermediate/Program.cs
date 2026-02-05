@@ -11,7 +11,9 @@ namespace CSharpIntermediate
     {
         static void Main(string[] args)
         {
-            EncapsulationDemo.Run();
+            //EncapsulationDemo.Run();
+            //InheritanceDemo.Run();
+            InheritanceBaseKeyword.Run();
         }
     }
 }
