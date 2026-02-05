@@ -43,11 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="01-OOP-Deep\Encapsulation\EncapsulationDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="02-Structs-And-Enums\" />
+    <Folder Include="03-Properties-And-Indexers\" />
+    <Folder Include="04-Exception-Handling\" />
+    <Folder Include="05-Collections\" />
+    <Folder Include="06-File-Handling\" />
+    <Folder Include="07-DateTime\" />
+    <Folder Include="08-Delegates\" />
+    <Folder Include="09-Events\" />
+    <Folder Include="10-Lambda-And-LINQ\" />
+    <Folder Include="11-Generics\" />
+    <Folder Include="12-Nullable-And-NullHandling\" />
+    <Folder Include="13-Multithreading-Basics\" />
+    <Folder Include="14-Debugging-And-Logging\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

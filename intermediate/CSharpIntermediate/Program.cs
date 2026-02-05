@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpIntermediate._01_OOP_Deep;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace CSharpIntermediate
     {
         static void Main(string[] args)
         {
+            EncapsulationDemo.Run();
         }
     }
 }
