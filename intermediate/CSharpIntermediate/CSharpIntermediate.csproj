@@ -74,6 +74,9 @@
     <Compile Include="10-Lambda-And-LINQ\Filteringwithlambda.cs" />
     <Compile Include="10-Lambda-And-LINQ\lamdaex.cs" />
     <Compile Include="10-Lambda-And-LINQ\lamdawithfun.cs" />
+    <Compile Include="11-Generics\GenricClass.cs" />
+    <Compile Include="11-Generics\GenricMethods.cs" />
+    <Compile Include="11-Generics\Repository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -81,7 +84,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="11-Generics\" />
     <Folder Include="12-Nullable-And-NullHandling\" />
     <Folder Include="13-Multithreading-Basics\" />
     <Folder Include="14-Debugging-And-Logging\" />
