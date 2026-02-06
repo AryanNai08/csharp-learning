@@ -6,6 +6,7 @@ using CSharpIntermediate._03_Properties_And_Indexers;
 using CSharpIntermediate._04_Exception_Handling;
 using CSharpIntermediate._05_Collections;
 using CSharpIntermediate._07_DateTime;
+using CSharpIntermediate.Delegates;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,7 +43,8 @@ namespace CSharpIntermediate
             //Arraylist.Run();
             //Hashtable.Run();
             //IEnumerable.Run();
-            DateTimeDemo.Run();
+            //DateTimeDemo.Run();
+            Delegatesex.Run();
 
         }
     }
