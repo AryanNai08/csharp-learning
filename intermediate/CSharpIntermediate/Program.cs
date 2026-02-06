@@ -7,6 +7,7 @@ using CSharpIntermediate._04_Exception_Handling;
 using CSharpIntermediate._05_Collections;
 using CSharpIntermediate._07_DateTime;
 using CSharpIntermediate.Delegates;
+using CSharpIntermediate.Events;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,7 +45,9 @@ namespace CSharpIntermediate
             //Hashtable.Run();
             //IEnumerable.Run();
             //DateTimeDemo.Run();
-            Delegatesex.Run();
+            //Delegatesex.Run();
+            //Eventsex.Run();
+            Payment.Run();
 
         }
     }

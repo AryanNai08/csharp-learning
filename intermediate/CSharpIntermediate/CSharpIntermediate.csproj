@@ -69,6 +69,8 @@
     <Compile Include="06-File-Handling\FileOperations.cs" />
     <Compile Include="07-DateTime\DateTimeDemo.cs" />
     <Compile Include="08-Delegates\Delegatesex.cs" />
+    <Compile Include="09-Events\Eventsex.cs" />
+    <Compile Include="09-Events\Payment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -76,7 +78,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="09-Events\" />
     <Folder Include="10-Lambda-And-LINQ\" />
     <Folder Include="11-Generics\" />
     <Folder Include="12-Nullable-And-NullHandling\" />
