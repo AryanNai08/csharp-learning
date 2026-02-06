@@ -77,6 +77,9 @@
     <Compile Include="11-Generics\GenricClass.cs" />
     <Compile Include="11-Generics\GenricMethods.cs" />
     <Compile Include="11-Generics\Repository.cs" />
+    <Compile Include="12-Nullable-And-NullHandling\Default.cs" />
+    <Compile Include="12-Nullable-And-NullHandling\NullableSystem.cs" />
+    <Compile Include="12-Nullable-And-NullHandling\NullObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -84,7 +87,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="12-Nullable-And-NullHandling\" />
     <Folder Include="13-Multithreading-Basics\" />
     <Folder Include="14-Debugging-And-Logging\" />
   </ItemGroup>
