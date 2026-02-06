@@ -8,6 +8,7 @@ using CSharpIntermediate._05_Collections;
 using CSharpIntermediate._07_DateTime;
 using CSharpIntermediate._12_Nullable_And_NullHandling;
 using CSharpIntermediate._13_Multithreading_Basics;
+using CSharpIntermediate._14_Debugging_And_Logging;
 using CSharpIntermediate.Delegates;
 using CSharpIntermediate.Events;
 using CSharpIntermediate.Genric;
@@ -61,7 +62,8 @@ namespace CSharpIntermediate
             //NullableSystem.Run();
             //Default.Run();
             //NullObject.Run();
-            DownloadSimulation.Run();
+            //DownloadSimulation.Run();
+            Logging.Run();
 
         }
     }

@@ -81,14 +81,13 @@
     <Compile Include="12-Nullable-And-NullHandling\NullableSystem.cs" />
     <Compile Include="12-Nullable-And-NullHandling\NullObject.cs" />
     <Compile Include="13-Multithreading-Basics\DownloadSimulation.cs" />
+    <Compile Include="14-Debugging-And-Logging\Logging.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="14-Debugging-And-Logging\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
