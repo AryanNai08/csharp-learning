@@ -8,6 +8,7 @@ using CSharpIntermediate._05_Collections;
 using CSharpIntermediate._07_DateTime;
 using CSharpIntermediate.Delegates;
 using CSharpIntermediate.Events;
+using CSharpIntermediate.LamdaExpression;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -47,7 +48,10 @@ namespace CSharpIntermediate
             //DateTimeDemo.Run();
             //Delegatesex.Run();
             //Eventsex.Run();
-            Payment.Run();
+            //Payment.Run();
+            //Filteringwithlambda.Run();
+            //lamdaex.Run();
+            lamdawithfun.Run();
 
         }
     }
