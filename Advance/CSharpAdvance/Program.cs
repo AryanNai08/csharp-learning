@@ -1,5 +1,6 @@
 ﻿using CSharpAdvance.AsyncAwaitFunctions;
 using CSharpAdvance.DepndencyInjection;
+using CSharpAdvance.DesignPattern;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,8 @@ namespace CSharpAdvance
             //MultipleAsyncTask.Run().Wait();
             //Taskex.Run().Wait();
             //DI.Run();
-            RepoEx.Run();
+            //RepoEx.Run();
+                FactoryPattern.Run();
         }
     }
 }

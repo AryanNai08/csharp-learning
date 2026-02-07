@@ -49,6 +49,7 @@
     <Compile Include="AsyncAwaitFunctions\Taskex.cs" />
     <Compile Include="DependencyInjection\DI.cs" />
     <Compile Include="DependencyInjection\RepoEx.cs" />
+    <Compile Include="DesignPattern\FactoryPattern.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
