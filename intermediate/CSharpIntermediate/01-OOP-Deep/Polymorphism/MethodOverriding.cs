@@ -13,10 +13,16 @@ namespace CSharpIntermediate._01_OOP_Deep.Polymorphism
             Console.WriteLine("Animal makes sound");
         }
 
+        public virtual void PSound()                 //Virtual keyword-Allows method to be overridden.
+        {
+            Console.WriteLine("Animal makes sound");
+        }
+
         public static void Run()
         {
             MethodOverriding md = new Dog();
             md.Sound();
+            md.PSound();
         }
     }
 

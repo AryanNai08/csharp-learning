@@ -30,7 +30,7 @@ namespace CSharpIntermediate
             //InheritanceDemo.Run();
             //InheritanceBaseKeyword.Run();
             //MethodOverloading.Run();
-            //MethodOverriding.Run();
+            MethodOverriding.Run();
             //AbstractClass.Run();
             //Interface.Run();
             //Struct.Run();
@@ -63,7 +63,7 @@ namespace CSharpIntermediate
             //Default.Run();
             //NullObject.Run();
             //DownloadSimulation.Run();
-            Logging.Run();
+            //Logging.Run();
 
         }
     }
