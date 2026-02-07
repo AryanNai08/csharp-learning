@@ -20,7 +20,8 @@ namespace CSharpAdvance
             //Taskex.Run().Wait();
             //DI.Run();
             //RepoEx.Run();
-                FactoryPattern.Run();
+            //FactoryPattern.Run();
+            SingletonEX.Run();
         }
     }
 }
