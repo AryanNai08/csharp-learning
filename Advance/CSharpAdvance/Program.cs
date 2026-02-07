@@ -1,4 +1,5 @@
 ﻿using CSharpAdvance.AsyncAwaitFunctions;
+using CSharpAdvance.DepndencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,9 @@ namespace CSharpAdvance
             //AsyncAwait.Run().Wait(); //use wait because there is only single main method in whole project and dont make it async!!
             //CancellationTokenEx.Run().Wait();
             //MultipleAsyncTask.Run().Wait();
-            Taskex.Run().Wait();
+            //Taskex.Run().Wait();
+            //DI.Run();
+            RepoEx.Run();
         }
     }
 }

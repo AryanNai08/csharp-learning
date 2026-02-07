@@ -47,11 +47,14 @@
     <Compile Include="AsyncAwaitFunctions\CancellationTokenEx.cs" />
     <Compile Include="AsyncAwaitFunctions\MultipleAsyncTask.cs" />
     <Compile Include="AsyncAwaitFunctions\Taskex.cs" />
+    <Compile Include="DependencyInjection\DI.cs" />
+    <Compile Include="DependencyInjection\RepoEx.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
