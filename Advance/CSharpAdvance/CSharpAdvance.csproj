@@ -46,6 +46,7 @@
     <Compile Include="AsyncAwaitFunctions\AsyncAwait.cs" />
     <Compile Include="AsyncAwaitFunctions\CancellationTokenEx.cs" />
     <Compile Include="AsyncAwaitFunctions\MultipleAsyncTask.cs" />
+    <Compile Include="AsyncAwaitFunctions\Taskex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
