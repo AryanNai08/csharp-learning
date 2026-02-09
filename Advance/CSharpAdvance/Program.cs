@@ -1,6 +1,7 @@
 ﻿using CSharpAdvance.AsyncAwaitFunctions;
 using CSharpAdvance.DepndencyInjection;
 using CSharpAdvance.DesignPattern;
+using CSharpAdvance.Htttp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,7 +22,9 @@ namespace CSharpAdvance
             //DI.Run();
             //RepoEx.Run();
             //FactoryPattern.Run();
-            SingletonEX.Run();
+            //SingletonEX.Run();
+            //GetReq.Run().Wait();
+            Post.Run();
         }
     }
 }
