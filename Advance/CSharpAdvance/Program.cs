@@ -2,6 +2,7 @@
 using CSharpAdvance.DepndencyInjection;
 using CSharpAdvance.DesignPattern;
 using CSharpAdvance.Htttp;
+using CSharpAdvance.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,7 +25,8 @@ namespace CSharpAdvance
             //FactoryPattern.Run();
             //SingletonEX.Run();
             //GetReq.Run().Wait();
-            Post.Run();
+            //Post.Run().Wait();
+            SerializedData.Run();
         }
     }
 }
