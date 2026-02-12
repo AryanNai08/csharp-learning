@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TopicRunner.Topics;
+using MarkDown_File_Management.Topics;
 
-namespace TopicRunner.Menus
+namespace MarkDown_File_Management.Menus
 {
     static class ConditionsLoopsMenu
     {
